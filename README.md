@@ -105,7 +105,7 @@ Checking which products have low profit margins can help make better pricing dec
 
 ## Dashboard Preview
 
-[![Dashboard Screenshot]( <link src="https://github.com/user-attachments/assets/c8aa9072-72cc-4a3f-b95d-f565a86f09dd" />
+[![Dashboard Screenshot](SuperStore sales dashboard screenshot.PNG
 )]
 
 
