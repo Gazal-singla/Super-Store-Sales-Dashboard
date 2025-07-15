@@ -105,7 +105,7 @@ Checking which products have low profit margins can help make better pricing dec
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard-preview.png)
+![Dashboard Screenshot](SuperStore sales dashboard screenshot.PNG)
 
 The dashboard gives an overview of total sales, profit, segment performance, shipping trends, and forecast — all in one place.
 
